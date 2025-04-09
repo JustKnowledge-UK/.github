@@ -1,1 +1,3 @@
-# .github
+# Just Knowledge - Empowering Black Communities with Data 
+
+MORE INFO COMING SOON....
